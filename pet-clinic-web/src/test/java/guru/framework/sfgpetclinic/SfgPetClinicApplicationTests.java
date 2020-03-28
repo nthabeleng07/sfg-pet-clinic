@@ -1,4 +1,4 @@
-package sfgpetclinic;
+package guru.framework.sfgpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
